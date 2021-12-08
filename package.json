@@ -1,6 +1,7 @@
 {
   "name": "vanilla",
   "version": "0.0.0",
+  "license": "UNLICENSED",
   "main": "dist/main.js",
   "module": "dist/module.js",
   "source": "src/index.js",
@@ -8,6 +9,7 @@
     "start": "parcel",
     "build": "parcel build"
   },
-  "devDependencies": { "parcel": "2.0.1" },
-  "keywords": ["javascript", "starter"]
+  "devDependencies": {
+    "parcel": "2.0.1"
+  }
 }

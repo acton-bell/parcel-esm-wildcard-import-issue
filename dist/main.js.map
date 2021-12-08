@@ -1,0 +1,1 @@
+{"mappings":";;;;;;;;ACAO,KAAK,CAAC,yCAAC,GAAG,CAAC","sources":["src/index.js","src/foo.js"],"sourcesContent":["import * as foo from \"./foo\";\r\nexport { foo };\r\n","export const a = 1;\r\n"],"names":[],"version":3,"file":"main.js.map"}
